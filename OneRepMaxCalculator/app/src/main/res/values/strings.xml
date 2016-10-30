@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">One Rep Max Calculator</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_reps">Enter Reps</string>
+    <string name="estimated_one_rep_max">Estimated One Rep Max</string>
+    <string name="calculate">Calculate One Rep Max</string>
+    <string name="invalid_input">Invalid input data</string>
+    <string name="algorithm_BRZYCKI">BRZYCKI</string>
+    <string name="algorithm_EPLEY">EPLEY</string>
+    <string name="algorithm_LANDER">LANDER</string>
+    <string name="algorithm_NSCA">NSCA</string>
+</resources>
