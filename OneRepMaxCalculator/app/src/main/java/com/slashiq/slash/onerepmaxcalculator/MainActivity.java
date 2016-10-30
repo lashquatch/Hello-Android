@@ -63,7 +63,6 @@ public class MainActivity extends AppCompatActivity {
                 String sZero;
 
                 sZero = "0";
-                lResult = 0L;
 
                 mError.setText("");
                 mResult.setText("");
